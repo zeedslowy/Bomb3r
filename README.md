@@ -4,27 +4,23 @@
 
   <a href="https://github.com/dmitrijkotov/b0mb3r"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/bomb_1f4a3.png" alt="b0mb3r"></a>
 
-  <br>
+  
+  # b0mb3r 📩
 
-  b0mb3r
-
-  <br>
-
-</h1>
-
-
-
-<h4 align="center">Открытый и бесплатный СМС бомбер</h4>
 
  
-    <h3> Windows</h3>
+     Windows
  
      с [ Degerler ](https://www.python.org/downloads/)  ![Add Python to PATH](https://user-images.githubusercontent.com/42045258/69171091-557d2780-0b0c-11ea-8adf-7f819357f041.png)
  
-    <h3>Для Android</h3>
+   # Android</h3>
  
-    Kurulum ⚡️ [Termux](https://play.google.com/store/apps/details?id=com.termux), Paket ⛅️ `pkg install python clang make openssl -y`.
- 
+   # Kurulum ⚡️ [Termux](https://play.google.com/store/apps/details?id=com.termux), 
+
+Paket ⛅️ 
+```
+pkg install python clang make openssl -y
+```
    ## 2. Windows ([Secenek?](http://comp-profi.com/kak-vyzvat-komandnuyu-stroku-ili-konsol-windows/)):
  
 ```sh
