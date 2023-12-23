@@ -21,7 +21,7 @@ Paket ⛅️
 ```
 pkg install python clang make openssl -y
 ```
-   ## 2. Windows ([Secenek?](http://comp-profi.com/kak-vyzvat-komandnuyu-stroku-ili-konsol-windows/)):
+   ## 2. Ek Paketler ([Secenek?](http://comp-profi.com/kak-vyzvat-komandnuyu-stroku-ili-konsol-windows/)):
  
 ```sh
 pip3 install db0mb3r -U
