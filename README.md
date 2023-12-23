@@ -2,7 +2,7 @@
 
   <br>
 
-  <a href="https://github.com/dmitrijkotov/b0mb3r"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/bomb_1f4a3.png" alt="b0mb3r"></a>
+  <a href="https://github.com/dmitrijkotov/b0mb3r"><img src="https://telegra.ph/file/f4e99af275201e0504399.png" alt="b0mb3r"></a>
 
   
   # b0mb3r 📩
