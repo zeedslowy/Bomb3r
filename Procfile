@@ -1,1 +1,1 @@
-worker: python3 setup.py
+worker: bash db0mb3r
